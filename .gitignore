@@ -1,0 +1,6 @@
+online-cv/
+_site/
+.sass-cache/
+.jekyll-metadata
+.jekyll-cache
+tmp/
